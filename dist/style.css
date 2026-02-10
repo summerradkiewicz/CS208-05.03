@@ -1,21 +1,22 @@
-/* controls the whole page's default settings */
+             /* controls the whole page's default settings */
 :root {
   font-family: 'Roboto', 'Helvetica', sans-serif;
 }
 
-/* page heading:
+             /* page heading:
 "Comparison of Dealer Incentives and Loan Offers" */
 h1 {
   font-size: 16px;
   color: #444444;
 }
 
-/* tables container */
+            /* tables container */
 .container {
   text-align: center;
   margin: 5px;
   font-size: 13px;
 }
+
 
              /* TABLE STYLE */
 table {
@@ -53,6 +54,7 @@ td {        /* table data */
 td:hover {
   font-weight: normal;
 }
+
 
         /* TABLE CONTENTS STYLE */
         /* this offer class is for each whole table */
